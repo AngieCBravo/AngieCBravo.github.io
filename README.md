@@ -4,4 +4,4 @@ I am Angie Bravo and I am majoring in *Journalism* at Lehigh University. I'm fro
 Connect with me on [Linkedin](https://www.linkedin.com/in/angie-bravo-24b62320a)
 ![Linkedin picture](https://images.app.goo.gl/V28DDyoFTK7R3jm1A)
 ![Lehigh Undergrad Infographic](https://github.com/AngieCBravo/AngieCBravo.github.io/blob/main/Aqua%20Magenta%20Neon%20Tropical%20Funky%20Groovy%20Block%20Party%20Poster.png?raw=true) 
-<img src="https://github.com/AngieCBravo/AngieCBravo.github.io/blob/main/Aqua%20Magenta%20Neon%20Tropical%20Funky%20Groovy%20Block%20Party%20Poster.png?raw=truewidth="200"height="200"/>
+
