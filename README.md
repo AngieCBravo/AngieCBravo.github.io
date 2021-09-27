@@ -11,6 +11,4 @@ Connect with me on [Linkedin](https://www.linkedin.com/in/angie-bravo-24b62320a)
 
 
 
-![Immigration Demographics](){width=50%}
-
 
