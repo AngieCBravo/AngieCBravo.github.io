@@ -7,7 +7,7 @@ Connect with me on [Linkedin](https://www.linkedin.com/in/angie-bravo-24b62320a)
 
 <img src="https://github.com/AngieCBravo/AngieCBravo.github.io/blob/main/Aqua%20Magenta%20Neon%20Tropical%20Funky%20Groovy%20Block%20Party%20Poster.png?raw=true" alt="image title" width="200"/>
 
-![Immigration Demographics](https://github.com/AngieCBravo/AngieCBravo.github.io/blob/main/Immigration%20Demographics.png?raw =100x20)
+![Immigration Demographics](https://github.com/AngieCBravo/AngieCBravo.github.io/blob/main/Immigration%20Demographics.png?raw=100x20)
 
 
 
