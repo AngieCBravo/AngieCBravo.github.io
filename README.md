@@ -15,7 +15,8 @@ Immigration became an increasingly polarizing issue amid the Trump era, igniting
 The data aims to answer who and what comprises the immigrant population which lead to subsequent questions of how data can influence xenophobic views.  The demographic data provides key findings such as the primary states of residence, projections for immigrant population growth and a breakdown of immigrant English proficiency. English proficiency is a particular point of interest; skewed views often point to immigrants as not being able to speak English. This data has the potential to breakdown stereotypes by shifting points of view away from anti-immigrant narratives, especially as immigrant populations are expected to rise, according to the data. Though the infographic doesn’t highlight the final section in the data discussing the percentage within political parties that view immigrants as burdens, it is a significant point of information to note as reference as more data is compiled and presented to the public; changes in overall mindsets toward immigration may be documented. 
 
 Work Cited:
-Budiman, Abby. “Key Findings About U.S. Immigrants.” Pew Research Center, Pew Research Center, 20 Aug. 2020, (www.pewresearch.org/fact-tank/2020/08/20/key-findings-about-u-s-immigrants/.) 
+Budiman, Abby. “Key Findings About U.S. Immigrants.” Pew Research Center, Pew Research Center, 20 Aug. 2020, [https://www.pewresearch.org/fact-tank/2020/08/20/key-findings-about-u-s-immigrants/](https://www.pewresearch.org/fact-tank/2020/08/20/key-findings-about-u-s-immigrants/)
+
 
 
 
