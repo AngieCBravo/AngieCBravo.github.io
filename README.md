@@ -7,6 +7,9 @@ Connect with me on [Linkedin](https://www.linkedin.com/in/angie-bravo-24b62320a)
 This is a bar chart created using Chartbuilder showing the world's richest countries. ![The World's Richest Countries](https://github.com/AngieCBravo/AngieCBravo.github.io/blob/main/The_World's_Richest_Countries_GPD_chartbuilder-2.png?raw=true)
 
 
+This is a bar chart created using Chartbuilder showing 2019 Percent of Undergraduate Enrollment. ![2019 Percent Undergraduate Enrollment](https://github.com/AngieCBravo/AngieCBravo.github.io/blob/main/2019_Percent_Undergraduate_Enrollment__2019_Percent_Undergraduate_Enrollment__chartbuilder.png?raw=true)
+
+
 <img src="https://github.com/AngieCBravo/AngieCBravo.github.io/blob/main/Aqua%20Magenta%20Neon%20Tropical%20Funky%20Groovy%20Block%20Party%20Poster.png?raw=true" alt="image title" width="200"/>
 
 ![Immigration Demographics](https://github.com/AngieCBravo/AngieCBravo.github.io/blob/main/Immigration%20Demographics.png?raw=100x20)
