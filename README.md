@@ -5,7 +5,7 @@ Connect with me on [Linkedin](https://www.linkedin.com/in/angie-bravo-24b62320a)
 ![Linkedin picture](https://images.app.goo.gl/V28DDyoFTK7R3jm1A)
 
 ## Deportation Count By States with Highest Immigrant Population
-This a column chart created using Chartbuilding demonstrating deportation count by the states with the highest immigrant populations. This data demonstrates the enormous gap in deportation count between the states, revealing Texas as the highest deportation state. This disparity points to subsequent possible factors that may contributes to such a gap including political party affiliation. 
+This a column chart created using Chartbuilding demonstrating deportation count by the states with the highest immigrant populations. This data demonstrates the enormous gap in deportation count between three states: revealing Texas as the highest deportation state. This disparity points to subsequent possible factors that may contributes to such a gap including political party affiliation. 
 ![Deportation Chart](https://github.com/AngieCBravo/AngieCBravo.github.io/blob/main/Deportation_chart_final.png?raw=true)
 
 This is a bar chart created using Chartbuilder showing the world's richest countries. ![The World's Richest Countries](https://github.com/AngieCBravo/AngieCBravo.github.io/blob/main/The_World's_Richest_Countries_GPD_chartbuilder-2.png?raw=true)
