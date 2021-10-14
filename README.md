@@ -4,7 +4,7 @@ I am Angie Bravo and I am majoring in *Journalism* at Lehigh University. I'm fro
 Connect with me on [Linkedin](https://www.linkedin.com/in/angie-bravo-24b62320a)
 ![Linkedin picture](https://images.app.goo.gl/V28DDyoFTK7R3jm1A)
 
-# Lehigh Undergraduate Enrollment 
+## Lehigh Undergraduate Enrollment 
 ![Lehigh Undergraduate Enrollment](https://github.com/AngieCBravo/AngieCBravo.github.io/blob/main/Lehigh_Undergraduate_Enrollment_Arts_Sci._Business_Engi._chartbuilder-2.png?raw=true)
 
 ## Deportation Count By States with Highest Immigrant Population
