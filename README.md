@@ -4,6 +4,9 @@ I am Angie Bravo and I am majoring in *Journalism* at Lehigh University. I'm fro
 Connect with me on [Linkedin](https://www.linkedin.com/in/angie-bravo-24b62320a)
 ![Linkedin picture](https://images.app.goo.gl/V28DDyoFTK7R3jm1A)
 
+# Lehigh Undergraduate Enrollment 
+![Lehigh Undergraduate Enrollment](https://github.com/AngieCBravo/AngieCBravo.github.io/blob/main/Lehigh_Undergraduate_Enrollment_Arts_Sci._Business_Engi._chartbuilder-2.png?raw=true)
+
 ## Deportation Count By States with Highest Immigrant Population
 This a column chart created using Chartbuilding demonstrating deportation count by the states with the highest immigrant populations. This data demonstrates the enormous gap in deportation count between three states: revealing Texas as the highest deportation state. This disparity points to possible causal factors such as political party affiliation.
 ![Deportation Chart](https://github.com/AngieCBravo/AngieCBravo.github.io/blob/main/Deportation_chart_final.png?raw=true)
