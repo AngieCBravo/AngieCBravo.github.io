@@ -4,6 +4,13 @@ I am Angie Bravo and I am majoring in *Journalism* at Lehigh University. I'm fro
 Connect with me on [Linkedin](https://www.linkedin.com/in/angie-bravo-24b62320a)
 ![Linkedin picture](https://images.app.goo.gl/V28DDyoFTK7R3jm1A)
 
+
+##  Public Educational Spending From States with Lowest Per Pupil Spending
+This is a scatter plot made by Chartbuilder containing public educational spending from states with lowest per pupil spending. 
+Hanson, Melanie. “U.S. Public Education Spending Statistics.” EducationData, 2 Aug. 2021, ![](https://educationdata.org/public-education-spending-statistics).
+
+![Lowest Per Pupil Spending](https://github.com/AngieCBravo/AngieCBravo.github.io/blob/main/Public_Educational_Spending_From_States_with_Lowest_Per_Pupil_Spending_7,610_chartbuilder-2.png?raw=true)
+
 ### 2017 Life Satisfaction and GDP Per Capita
 This is a scatter plot chart made using Chartbuilder representing different countries and the life satisafaction in relation to GDP per capita. The x-axis represents the GDP.
 ![2017 Life Satisfaction and GDP Per Capita](https://github.com/AngieCBravo/AngieCBravo.github.io/blob/main/2017_Life_Satisfaction_and_GDP_Per_Capita__Life_satisfaction_chartbuilder.png?raw=true) 
