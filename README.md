@@ -6,7 +6,9 @@ Connect with me on [Linkedin](https://www.linkedin.com/in/angie-bravo-24b62320a)
 
 
 ##  Public Educational Spending From States with Lowest Per Pupil Spending
-This is a scatter plot made by Chartbuilder containing public educational spending from states with lowest per pupil spending. 
+This is a scatter plot made by Chartbuilder containing k-12 public educational spending from the 10 states with the lowest per pupil spending. Seven of the 10 states- Texas, Georgia, Idaho, Arizona, Nevada, Oklahoma and Tennessee- are ranked in the lower half of education systems according to World Population Review. Thus drawing a correlation between spending and quality education. 
+
+
 Hanson, Melanie. “U.S. Public Education Spending Statistics.” EducationData, 2 Aug. 2021 [https://educationdata.org/public-education-spending-statistics](https://educationdata.org/public-education-spending-statistics)
 
 ![Lowest Per Pupil Spending](https://github.com/AngieCBravo/AngieCBravo.github.io/blob/main/Public_Educational_Spending_From_States_with_Lowest_Per_Pupil_Spending_7,610_chartbuilder-2.png?raw=true)
