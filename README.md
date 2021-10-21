@@ -5,6 +5,7 @@ Connect with me on [Linkedin](https://www.linkedin.com/in/angie-bravo-24b62320a)
 ![Linkedin picture]
 
 This map was made using Google maps and displays the 20 most bike-friendly cities in the planet.
+Source: [https://www.wired.com/story/most-bike-friendly-cities-2019-copenhagenize-design-index/](https://www.wired.com/story/most-bike-friendly-cities-2019-copenhagenize-design-index/)
 <iframe src="https://www.google.com/maps/d/u/0/embed?mid=1-V6QbIopWUhLU1eLEnQEIqU8CLsWem2M" width="640" height="480"></iframe>
 
 
