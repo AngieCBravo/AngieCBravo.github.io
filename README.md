@@ -4,6 +4,21 @@ I am Angie Bravo and I am majoring in *Journalism* at Lehigh University. I'm fro
 Connect with me on [Linkedin](https://www.linkedin.com/in/angie-bravo-24b62320a)
 ![Linkedin picture]
 
+## Eight Most Difficult Places to Gain Citizenship 
+This map was made using Google Maps and displays the eight most difficult places to gain citizenship in. Immigration during the last few years has been a constant topic of conversation centered on immigration to the United States. Policy comparison to other countries is just as important as we frame a well-rounded conversation around immigration policy. Although the United States is not pinned on the map,it does deserve an honorable mention for one of the most difficult places to immigrate to with expensive application fees and unlimited wait times to receive updates on residency status, according to an NPR podcast. 
+
+Works Cited 
+“'Get in Line:' What It Takes to Legally Immigrate to the United States.” NPR, NPR, 25 Jan. 2020, [https://www.npr.org/2020/01/24/799378739/get-in-line-what-it-takes-to-legally-immigrate-to-the-united-states.](https://www.npr.org/2020/01/24/799378739/get-in-line-what-it-takes-to-legally-immigrate-to-the-united-states)
+
+McCamy, Laura. “8 Of the Countries Where It's Hardest to Become a Citizen.” Business Insider, Business Insider, 13 Sept. 2019, [https://www.businessinsider.com/8-of-the-countries-where-its-hardest-to-become-a-citizen-2018-9.]( https://www.businessinsider.com/8-of-the-countries-where-its-hardest-to-become-a-citizen-2018-9)
+
+<iframe src="https://www.google.com/maps/d/u/0/embed?mid=1Z-iwvpnlDMhyYZHe0MZVWTQRiKaICaqM" width="640" height="480"></iframe>
+
+
+
+
+
+
 This map was made using Google maps and displays the 20 most bike-friendly cities in the planet.
 Source: [https://www.wired.com/story/most-bike-friendly-cities-2019-copenhagenize-design-index/](https://www.wired.com/story/most-bike-friendly-cities-2019-copenhagenize-design-index/)
 <iframe src="https://www.google.com/maps/d/u/0/embed?mid=1-V6QbIopWUhLU1eLEnQEIqU8CLsWem2M" width="640" height="480"></iframe>
