@@ -5,7 +5,7 @@ Connect with me on [Linkedin](https://www.linkedin.com/in/angie-bravo-24b62320a)
 ![Linkedin picture]
 
 ## Eight Most Difficult Places to Gain Citizenship 
-This map was made using Google Maps and displays the eight most difficult places to gain citizenship in. Immigration during the last few years has been a constant topic of conversation centered on immigration to the United States. Policy comparison to other countries is just as important as we frame a well-rounded conversation around immigration policy. Although the United States is not pinned on the map,it does deserve an honorable mention for one of the most difficult places to immigrate to with expensive application fees and unlimited wait times to receive updates on residency status, according to an NPR podcast. 
+This map was made using Google Maps and displays the eight most difficult places to gain citizenship in as of 2019. Immigration during the last few years has been a constant topic of conversation centered on immigration to the United States. Policy comparison to other countries is just as important as we frame a well-rounded conversation around immigration policy. Although the United States is not pinned on the map,it does deserve an honorable mention for one of the most difficult places to immigrate to with expensive application fees and unlimited wait times to receive updates on residency status, according to an NPR podcast. 
 
 Works Cited: 
 
