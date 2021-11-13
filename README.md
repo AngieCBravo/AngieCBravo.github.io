@@ -4,6 +4,8 @@ I am Angie Bravo and I am majoring in *Journalism* at Lehigh University. I'm fro
 Connect with me on [Linkedin](https://www.linkedin.com/in/angie-bravo-24b62320a)
 ![Linkedin picture]
 
+[Introduction Comic](https://github.com/AngieCBravo/AngieCBravo.github.io/blob/main/Screen%20Shot%202021-11-13%20at%205.04.03%20PM.png?raw=true)
+
 ## Party Data Dashboard
 This Tableau dashboard combines attendance and status, and group involvement and location preference. The dashboard sources data from a party data set collected by previous data journalism students. The two graphs can be interacted with and altered by clicking on the filter boxes on the right side of the page. By clicking and unclicking the boxes, the data moves accordingly to adapt to combine individual data points, thus altering the graph's size. The data reveals a prominence of Greek life in the party scene. Additionally, second year students can be seen as the most active student status in the party scene; leading to further possible research to explore why such discrepancy exists between student satuses. 
 
